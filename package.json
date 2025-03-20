@@ -18,6 +18,7 @@
     "lottie-react-native": "^7.2.2",
     "react": "18.3.1",
     "react-native": "0.76.7",
+    "react-native-appearance": "^0.0.0",
     "react-native-gesture-handler": "^2.24.0",
     "react-native-reanimated": "^3.17.1",
     "react-native-safe-area-context": "^5.3.0",
